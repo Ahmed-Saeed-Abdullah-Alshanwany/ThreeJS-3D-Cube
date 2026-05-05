@@ -1,7 +1,7 @@
 # 3D Child Room Textures - Interactive Presentation
 
 ## Project Demo
-![3D Cube Demo](videos.gif)
+![Demo](videos.gif)
 
 ## Overview
 This project is an interactive 3D scene designed as a wall texture presentation for a 5-year-old's room. It demonstrates core computer graphics concepts such as **Texture Mapping**, **Illumination**, and **3D Transformations** using the **Three.js** library.
