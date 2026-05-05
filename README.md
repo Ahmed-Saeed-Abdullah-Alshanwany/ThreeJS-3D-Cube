@@ -1,7 +1,7 @@
 # 3D Child Room Textures - Interactive Presentation
 
 ## Project Demo
-![3D Cube Demo](videos.gif) 
+![3D Cube Demo](videos.gif)
 *(Note: Replace 'your-animation-name.gif' with the actual filename you uploaded)*
 
 ## Overview
