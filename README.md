@@ -2,7 +2,6 @@
 
 ## Project Demo
 ![3D Cube Demo](videos.gif)
-*(Note: Replace 'your-animation-name.gif' with the actual filename you uploaded)*
 
 ## Overview
 This project is an interactive 3D scene designed as a wall texture presentation for a 5-year-old's room. It demonstrates core computer graphics concepts such as **Texture Mapping**, **Illumination**, and **3D Transformations** using the **Three.js** library.
@@ -22,7 +21,7 @@ This project is an interactive 3D scene designed as a wall texture presentation 
 ## How to Run
 1. Clone this repository.
 2. Open `index.html` using a local server (e.g., VS Code Live Server) to avoid CORS issues with textures.
-3. Or, visit the live demo via GitHub Pages: `[YOUR-GITHUB-PAGES-LINK-HERE]`
+3. Or, visit the live demo via GitHub Pages: `[حط هنا رابط الـ GitHub Pages بتاعك]`
 
 ## Technologies Used
 * HTML5 / CSS3
